@@ -5,6 +5,8 @@ Date: December 7, 2025
 
 This script analyzes quarterly MRR growth data and generates visualizations
 to support strategic decision-making.
+
+Analysis completed using ChatGPT Codex: https://chatgpt.com/codex/tasks
 """
 
 import json
